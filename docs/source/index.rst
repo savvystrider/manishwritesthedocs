@@ -1,19 +1,30 @@
-Welcome to Lumache's documentation!
-===================================
+# Manish writes the docs
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This website is primarily about the study of REST APIs and REST API documentation; however, many other topics are covered, including:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- APIs (in general)
 
-.. note::
+- Postman
 
-   This project is under active development.
-   
-   Lumache really has its documentation hosted on Read the Docs.
+- Git
+
+- GitHub
+
+- Hugo
+
+- Jekyll
+
+- Markdown
+
+- JSON
+
+- XML
+
+- cURL
+
+My study of REST APIs began with the course [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) by fellow technical writer Tom Johnson.
+
+It then expanded to the course [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/) by Peter Gruenbaum.
 
 Contents
 --------
